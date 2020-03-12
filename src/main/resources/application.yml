@@ -1,0 +1,10 @@
+server:
+  port: 8090
+
+logging:
+  level:
+    org.springframework.web: DEBUG
+    org.springframework.security: DEBUG
+    com.zhou: DEBUG
+folderPath: ./docxFiles/
+suffix: .docx
