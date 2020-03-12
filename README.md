@@ -5,4 +5,4 @@
 http://localhost:8090/
 ```
 **注:算法题为项目中测试包下的Arithmetic**  
-> 全路径类名:com.zhoushengwen.fileDownloadDemo
+> 全路径类名:com.zhoushengwen.fileDownloadDemo.Arithmetic
